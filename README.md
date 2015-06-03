@@ -1,5 +1,5 @@
 # hello-world
-Just anotherrRespository
+Just another respository
 
 Hello Student Humans!
 
